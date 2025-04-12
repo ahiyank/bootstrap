@@ -1,0 +1,25 @@
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
+
+@media (max-width:991px){
+    .col-lg-5{
+        display: none;
+    }
+   #button{
+    display: none;
+   }
+   #menu{
+    display: inline;
+   }
+}
+@media (max-width:460px){
+    .heading{
+        font-size: 2rem;
+    }
+    .para{
+        font-size: 1.5rem;
+    }
+}

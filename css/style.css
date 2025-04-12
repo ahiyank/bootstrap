@@ -1,0 +1,28 @@
+*{
+    font-family: "Inter", sans-serif;
+    text-transform: capitalize;
+}
+
+.heading{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.font{
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+button{
+    text-transform: capitalize;
+}
+.col-lg-5{
+    border-radius: 20px;
+}
+.para{
+    font-size: 1.7rem;
+    font-weight: 800;
+}
+
+#menu{
+    display: none;
+}
